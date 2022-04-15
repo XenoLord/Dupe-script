@@ -2,8 +2,12 @@ Try this first
 
 loadstring(game:HttpGet("https://pastebin.com/raw/Wp3B2QfJ"))()
 
-If not works 
-
+If not works
+   [] 
+   [] 
+   [] 
+   [] 
+   ||
 loadstring(game:HttpGet("https://pastebin.com/raw/MaavrBSR"))() 
 
 NOTE: Dont forget to delete your bank members and cancel all outgoing invites
